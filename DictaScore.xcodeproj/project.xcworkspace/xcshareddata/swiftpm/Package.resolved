@@ -1,0 +1,32 @@
+{
+  "pins" : [
+    {
+      "identity" : "alerttoast",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/elai950/AlertToast.git",
+      "state" : {
+        "branch" : "master",
+        "revision" : "638f38f9daf08e17b7caea22d2fcb9c0a418d1b6"
+      }
+    },
+    {
+      "identity" : "lottie-ios",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/airbnb/lottie-ios.git",
+      "state" : {
+        "branch" : "master",
+        "revision" : "079b12c5cb90f8d6ed67cea8f5aa62dadfb76be0"
+      }
+    },
+    {
+      "identity" : "swiftysound",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/adamcichy/SwiftySound.git",
+      "state" : {
+        "branch" : "master",
+        "revision" : "de233cc96b0154cb26c66b9a0f1c2719709c83ac"
+      }
+    }
+  ],
+  "version" : 2
+}
