@@ -7,7 +7,6 @@
 ## Features
 
 - **Voice Recognition**: The app listens for voice commands to update scores in real-time, reducing the need for manual entry.
-- **Multi-Game Support**: Users can track scores for different games concurrently, making it versatile for a variety of gaming scenarios.
 - **Customizable Game Settings**: Tailor the app to different types of games by setting rules, scoring methods, and player configurations.
 - **User-Friendly Interface**: Designed with simplicity in mind, the app provides an intuitive user experience, making it accessible for users of all ages.
 
